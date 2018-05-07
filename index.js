@@ -3,4 +3,7 @@ function BoardMember(name, homeState, training){
   this.homeState = homeState
   this.training = training
   this.veto = "No, I must disagree"
+  this.approve = "You can do that!"
+  this.doCharity = "I like to help people."
+  this.releasePressStatement = "You will see great things from Scuber."
 }
